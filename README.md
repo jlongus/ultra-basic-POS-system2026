@@ -1,4 +1,6 @@
 # ultra-basic-POS-system2026
+**this project uses windows-exclusive libraries**
+
 a reconstruction of my ultra-basic-POS-system repo. this is meant to be cleaner and much more readable. no new functions will be included (i hope)
 
 This was originally a Spring 2025 project for my C++ class. The goal was to design a Point of Sale system in which an administrator could log into the app, providing CRUD functionality to see and adjust a file that would hold the system's inventory. I had to learn quite a few things for this project, including libraries I had never used before, such as <map> and <vector>.
